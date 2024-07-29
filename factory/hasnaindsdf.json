@@ -1,0 +1,9 @@
+{
+	"name": "hasnaindsdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ab61ea4-40a9-4596-9ad8-57c7c3bcedc2",
+		"tenantId": "ce0db214-cf5e-4aa5-9781-bd8d3fa6c4c3"
+	}
+}
